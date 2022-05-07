@@ -65,7 +65,8 @@ eclipse、idea、MyEclipse
 
 ## 5、视频演示
 
-https://mp.weixin.qq.com/s/RvDXSPZhrcc5jHs46wk6ow
+[点击观看视频](https://mp.weixin.qq.com/s?__biz=MzkwMjM1MjM0Ng==&mid=2247483812&idx=1&sn=eceaeb975c51913bd2008486a32ff7d8&chksm=c0a79d11f7d01407626e25ed362c930db755eaab9e741039666ef6da02f4c04e27a6ede75c86#rd)
+
 视频位于页面下方。
 
 ## 6、获取方式
