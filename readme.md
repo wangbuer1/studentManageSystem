@@ -1,8 +1,8 @@
-关注公众号： **程序员王不二** （ javaCodeSharing），回复 “学生” 获取完整版的项目代码。9
+关注公众号： **程序员王不二** （ javaCodeSharing），回复 “学生” 获取完整版的项目代码。
 
  ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
-# 学生信息管理系统
+# 学生信息管理系统9
 
 
 
